@@ -1260,7 +1260,7 @@ h6 {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 91px) {
   #hero {
     height: 100vh;
     text-align: center;
@@ -1368,6 +1368,7 @@ section {
 .img-fluidex{
  
   width: 210px;
+  margin-left: -30rem;
  
 }
 .img-fluid{
